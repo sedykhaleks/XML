@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <title>Набор компетенций</title>
+  <skill1>1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC</skill1>
+  <skill2>2. Что такое клиент серверная архитектура</skill2>
+  <skill3>3. Методы запросов на сервер</skill3>
+  <skill4>4. Ответы сервера</skill4>
+  <skill5>5. Структуры запросов и ответов</skill5>
+  <skill6>6. Что такое JSON, XML. Структура</skill6>
+  <skill7>7. Тестирование API</skill7>
+  <skill8>8. Снятие и чтение логов</skill8>
+  <skill9>9. Postman, Fidler</skill9>
+  <skill10>10. VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</skill10>
+  <skill11>11. Dev Tools веб браузеров (Google Chrome, FireFox)</skill11>
+  <skill12>12. Мобильное тестирование</skill12>
+  <skill13>13. Особенность iOS, Android, гайдлайны</skill13>
+  <skill14>14. Сборка iOS приложений на XCode</skill14>
+  <skill15>15. Сборка Android приложений на Android Studio</skill15>
+  <skill16>16. Перехват мобильного трафика (сниффинг) через Charles</skill16>
+  <skill17>17. Настройка прокси на iOS и Android</skill17>
+  <skill18>18. Командная строка (terminal) Linux Ubuntu. Копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса</skill18> 
+  <skill19>19. Простой bash скриптринг, автоматизация рутинных задач на сервере</skill19>
+  <skill20>20. Доступ к удалённым серверам</skill20>
+  <skill21>21. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill21>
+  <skill22>22. Git</skill22>
+  <skill23>23. Jmeter</skill23>
+  <skill24>24. Методология разработки Scrum</skill24>
+  <skill25>25. Python. Создание собственного клиент-серверного приложения</skill25>
+</root>
