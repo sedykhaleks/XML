@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-
-</root>
+<bug_report> 
+    <Summary>Ошибка валидации поля Name при вводе минимального кол-ва валидных символов</Summary> 
+    <STR>Открыть сайт, Ввести поле Name, Ввести поле Password", Нажать кнопку зарегистрироваться</STR>
+    <Result>Заполните, пожалуйста, все поля!</Result>
+    <Severity>Major</Severity>
+    <Priority>Medium</Priority>
+    <Status>Opened</Status>
+    <Author>Sedykh Alex</Author>
+    <Attachment>attachment file.jpg</Attachment>
+</bug_report>
