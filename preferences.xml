@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <myInfo>
- <MyFavoriteFilm>My Favorite Film: Interstellar</MyFavoriteFilm>
- <MyFavoriteShow>My Favorite Show: Elite</MyFavoriteShow>
- <MyFavoriteFood>My Favorite Food: Greek salad</MyFavoriteFood>
- <MyFavoriteCountry>My Favorite Country: Portugal</MyFavoriteCountry>
+  <myFavoriteMovie> 1+1 </myFavoriteMovie>
+  <myFavoriteSinger> Michael Jackson </myFavoriteSinger>
+  <myFavoriteShow> Stranger Things </myFavoriteShow>
+  <myFavoriteFood> Cezar Salad </myFavoriteFood>
+  <myFavoriteCartoon> Gravity Falls </myFavoriteCartoon>
+  <myFavoriteCountry> Portugal </myFavoriteCountry> 
+  <myFavoriteBook> Homo Sapiens, Homo Deus, 21 Lessons for The 21th Century </myFavoriteBook>
+  <myFavoritePlace> Park </myFavoritePlace>
+  <myFavoriteSport> Soccer </myFavoriteSport>
 </myInfo>
